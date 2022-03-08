@@ -1,0 +1,8 @@
+Para botones principales #000a ---- es un negro transparente.
+
+#faaa --- es un rosita transparente que combina con la foto de la chica con fondo
+turquesa. Con el display: none
+En este caso hay que sacar la foto y ver si se puede poner en el "about me"
+
+En el menú flotante se le puede poner un negro más oscuro, que se hace con color
+rgb: https://www.esthersola.com/transparencia-color-hexadecimal/
